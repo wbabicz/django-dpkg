@@ -9,6 +9,8 @@ All feedback or enhancements appreciated!
 Installation
 ============
 
+this is a test
+
 To follow some Debian packaging guides as well as LSB/FHS standards, following
 hierarchy is used for Django installations:
 
