@@ -2,6 +2,8 @@
 django-debian
 ===============
 
+TEST TEST TEST
+
 Reference Django application for building Debian packages.
 
 All feedback or enhancements appreciated!
